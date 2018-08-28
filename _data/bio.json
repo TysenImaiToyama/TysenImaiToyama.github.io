@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tysen Imai-Toyama",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "Tysen4@hawaii.edu",
+    "phone": "808-391-7946",
+    "website": "https://TysenImaiToyama.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "TysenImaiToyama",
         "url": "http://github.com/changeme"
       },
       {
