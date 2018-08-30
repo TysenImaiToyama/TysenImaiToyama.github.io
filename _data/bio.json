@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tysen Imai-Toyama",
     "label": "Student",
-    "picture": "https:/TysenImaiToyama.github.io/images/github pf.jpg",
+    "picture": "https://TysenImaiToyama.github.io/images/github pf.jpg",
     "email": "Tysen4@hawaii.edu",
     "phone": "808-391-7946",
     "website": "https://TysenImaiToyama.github.io",
@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Reddit",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Videogames",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Anime",
       "keywords": [
       ]
     }
