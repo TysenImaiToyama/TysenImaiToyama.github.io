@@ -8,6 +8,7 @@ permalink: projects/Judo
 date: 2018-08-30
 labels:
   - Teamwork
+  - Life Experiences
 summary: Judo and Wrestling has taught me life experiences and self discipline.
 ---
 
