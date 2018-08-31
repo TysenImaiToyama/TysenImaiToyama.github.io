@@ -5,7 +5,7 @@ image: images/tutor (2).png
 title: Math Tutor
 permalink: projects/MathTutor
 # All dates must be YYYY-MM-DD format!
-date: 2018-8-30
+date: 2018-08-30
 labels:
   - Teaching
   - Professional Interactions
