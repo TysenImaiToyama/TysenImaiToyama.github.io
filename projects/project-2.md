@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/tutor (2).png
-title: Vacay
-permalink: projects/vacay
+title: Math Tutor
+permalink: projects/project-2.md
 # All dates must be YYYY-MM-DD format!
 date: 2018-8-30
 labels:
