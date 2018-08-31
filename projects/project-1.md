@@ -11,7 +11,8 @@ labels:
 summary: Judo and Wrestling has taught me life experiences and self discipline.
 ---
 
-<img class="" src="../images/Wrestling (3)">
+<img class="ui medium right floated rounded image" src="../images/Wrestling (3).jpg">
+
 
 
   For this significant endeavor in my life, I have attained a variety of experiences. Such experiences consist of hard-work,
