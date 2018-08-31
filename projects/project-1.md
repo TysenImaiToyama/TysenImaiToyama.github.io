@@ -22,4 +22,5 @@ Team encouragement plays a role when teammates are in a match or struggling thro
 having no teammate left behind.
 
   I achieved these expreriences by participating in Judo all four years of high school and Wrestling in the last 3 years of high school.
-I sacificed my high school life to train in those sports. I could have been hanging with friends or having fun but I decided to try and accomplish something more with my life.
+I sacificed my high school life to train in those sports. Not many people could handle wrestling practices at my school and the 
+team was always small throughout my years there. Unfortunately, I've only been able to achieve 3rd place in Easterns. I could have been hanging with friends or having fun but I decided to try and accomplish something with my life. I now apply the self-discipline and other experiences to my jobs after high school.
