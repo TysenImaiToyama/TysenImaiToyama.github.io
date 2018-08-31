@@ -16,6 +16,7 @@ summary: ICS 212 homework. A program that takes in an integer and displays all f
 of the integer given but it also detects wrong input, such as letters. I contributed all of the code. This assignment has helped my understanding and practice the scanf function with the printf function. I had to work with loops for detecting wrong inputs and keeping the programming continuing even after one input until an integer is given. Also like all other assignments, learning to code from instructions. Not all customers are going to know coding, so asking questions and interaction is good when instructions aren't clear.
 
 example of mentioned loop below.
+```C
   while (aboveZero == -1)    
     {
         while((letters = scanf("%d", &num)) != 1)
@@ -35,6 +36,7 @@ example of mentioned loop below.
             printf("\nERROR : Integer %d is not greater than zero!\nEnter an integer greater than zero!\n", num);
         }
      }
+```
 This loop shows that I had to understand that there was some sort of buffer before the information is printed. Also that if there is
 wrong input, then the wrong input stays in the buffer and your program is bugged. Basically, the function scanf, printf, and the
 input buffer is the main concept of this homework. It is learned that I need to "dump" the wrong input so that the scanf loop can read
