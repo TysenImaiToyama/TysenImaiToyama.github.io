@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/Wrestling (3).jpg
+image: images/Wrestling (3).jpg
 title: Judo and Wrestling
 permalink: projects/Judo
 # All dates must be YYYY-MM-DD format!
@@ -11,8 +11,8 @@ labels:
 summary: Judo and Wrestling has taught me life experiences and self discipline.
 ---
 
-<div class="ui small rounded images">
-</div>
+<img class="ui medium right floated rounded image" src="../images/Wrestling (3)">
+
 
   For this significant endeavor in my life, I have attained a variety of experiences. Such experiences consist of hard-work,
 self-discipline, and encouragement as a team. Both sports have been impactful in my life as to how I want to work in the work force.
