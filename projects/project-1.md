@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Wrestling (3).jpg
 title: Judo and Wrestling
-permalink: projects/Judo
+permalink: projects/JudoandWrestling
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
