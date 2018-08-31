@@ -42,4 +42,4 @@ the next input in the buffer. It is not intuitive when the professor doesn't exp
 too much and wants us to ask for help. This is crucial and similar as to asking your customer if instructions are unclear or even
 problem solving by yourself if you don't ask questions. 
 
-Homework : TysenImaiToyama.github.io/Homework1/
+Homework : https://github.com/TysenImaiToyama/TysenImaiToyama.github.io/tree/master/Homework1
