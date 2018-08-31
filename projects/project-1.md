@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Wrestling.jpg
+image: images/Wrestling (2).jpg
 title: Judo and Wrestling
 permalink: projects/Judo
 # All dates must be YYYY-MM-DD format!
