@@ -1,61 +1,45 @@
 ---
 layout: project
-type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+type: Homework
+image: images/factor (2).jpg
+title: 211 Homework
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-08-30
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C
+summary: ICS 212 homework. A program that takes in an integer and displays all factors of given integer.
 ---
+<img class="ui medium right floated rounded image" src="../images/factor (2).jpg">
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+  This program was to help get used to the input and output of the language C. This program takes in an integer and displays the factors 
+of the integer given but it also detects wrong input, such as letters. I contributed all of the code. This assignment has helped my understanding and practice the scanf function with the printf function. I had to work with loops for detecting wrong inputs and keeping the programming continuing even after one input until an integer is given. Also like all other assignments, learning to code from instructions. Not all customers are going to know coding, so asking questions and interaction is good when instructions aren't clear.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+example of mentioned loop below.
+  while (aboveZero == -1)    
+    {
+        while((letters = scanf("%d", &num)) != 1)
+        {
+            if (letters != 1)
+            {
+                charDump = getchar();
+                printf("\n%c removed! Enter an integer greater than zero\n", charDump);
+            }
+        }
+        if (num > 0)
+        {
+            aboveZero = 1;
+        }
+        else
+        {
+            printf("\nERROR : Integer %d is not greater than zero!\nEnter an integer greater than zero!\n", num);
+        }
+     }
+This loop shows that I had to understand that there was some sort of buffer before the information is printed. Also that if there is
+wrong input, then the wrong input stays in the buffer and your program is bugged. Basically, the function scanf, printf, and the
+input buffer is the main concept of this homework. It is learned that I need to "dump" the wrong input so that the scanf loop can read
+the next input in the buffer. It is not intuitive when the professor doesn't explain
+too much and wants us to ask for help. This is crucial and similar as to asking your customer if instructions are unclear or even
+problem solving by yourself if you don't ask questions. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Homework : TysenImaiToyama.github.io/Homework1/
