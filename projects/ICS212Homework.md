@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/factor (2).jpg
-title: 211 Homework
-permalink: 
+title: 212 Homework
+permalink: projects/Homework
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
