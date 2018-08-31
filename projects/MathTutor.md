@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tutor (2).png
+image: images/tutor (2).jpg
 title: Math Tutor
 permalink: projects/MathTutor
 # All dates must be YYYY-MM-DD format!
