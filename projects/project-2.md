@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/tutor (2).png
 title: Math Tutor
-permalink: projects/project-2.md
+permalink: projects/MathTutor
 # All dates must be YYYY-MM-DD format!
 date: 2018-8-30
 labels:
