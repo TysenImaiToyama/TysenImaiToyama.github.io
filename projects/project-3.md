@@ -1,6 +1,6 @@
 ---
 layout: project
-type: Homework
+type: project
 image: images/factor (2).jpg
 title: 211 Homework
 permalink: 
