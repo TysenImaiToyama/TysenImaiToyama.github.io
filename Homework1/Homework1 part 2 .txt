@@ -1,0 +1,9 @@
+﻿Tysen Imai-Toyama
+ICS 212
+1/18/2018
+
+
+Homework 1 part 2 Explanation
+
+
+        The difference seen in from lecture and the actual address is very difference. The lecture was very obvious to see what took up what memory. There are also letters contained in the address. The addresses also have an 0x7ffc51591+combination of numbers and ‘c’. It also seems some memory is incremental like the array 51,52,53 but the rest vary whether they are in sequence or not. This is different compared to the stack example where it showed no memory being skipped. Every variable was in sequence. The actual addresses look like they need to be decoded.
