@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Java's Cousin?
-date: 2018-08-30
+date: 2018-08-31
 labels:
   - Learning
   - Javascript
