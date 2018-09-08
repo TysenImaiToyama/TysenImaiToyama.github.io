@@ -8,27 +8,17 @@
     "website": "https://TysenImaiToyama.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020. I hope to eventually get a state job as a programmer.",
     "location": {
-      "address": "",
-      "postalCode": "96817",
-      "city": "Honolulu",
+      "address": "46-259 Kahuhipa St., Apt 307B",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "TysenImaiToyama",
-        "url": "http://github.com/TysenImaiToyama"
-      },
-      {
         "network": "linkedin",
         "username": "Tysen Imai-Toyama",
-        "url": "http://linkedin.com/in/Tysen Imai-Toyama"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
+        "url": "https://www.linkedin.com/in/tysen-imai-toyama-b91a49149/"
       },
       {
         "network": "instagram",
@@ -69,9 +59,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-08-15",
       "endDate": "Present",
       "gpa": "",
       "courses": [
