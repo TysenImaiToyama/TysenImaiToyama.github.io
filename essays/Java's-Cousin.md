@@ -22,6 +22,7 @@ syntax of the language. freeCodeCamp has made the experience on learning Javascr
 syntax of Javascript rather than Java then you will realize a coding languages similarities. Although each language has its own 
 differences. Javascript has a different declaration for variables, which are let and const. Below you can see the side by side 
 comparison of variable declaration.
+
 Javascript 
 ```Javascript
 let number = 0;
