@@ -23,13 +23,13 @@ syntax of Javascript rather than Java then you will realize a coding languages s
 differences. Javascript has a different declaration for variables, which are let and const. Below you can see the side by side 
 comparison of variable declaration.
 Javascript 
-'''Javascript
+```Javascript
 let number = 0;
-'''
+```
 Java
-'''Java
+```Java
 int number = 0;
-'''
+```
 
 ##Personal thoughts
   
