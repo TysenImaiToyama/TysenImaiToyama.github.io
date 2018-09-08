@@ -22,4 +22,4 @@ This question is very descriptive of the problem. It seems to be a very unique q
 symptoms of the problem are discussed and it does not seem to be a question answered by the manual as well. The question is also concise 
 and to the point. Snippets of the code is pasted rather than the whole code.
 
-The following link is a bad example of a ["smart question"]()
+The following link is a bad example of a ["smart question"](https://stackoverflow.com/questions/22209729/what-does-do-mean-in-python)
