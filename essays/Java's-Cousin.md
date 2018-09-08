@@ -9,13 +9,13 @@ labels:
 ---
 <img class="ui tiny center floated image" src="../images/javascript.jpg">
 
-##A new semester, a new class
+## A new semester, a new class
 
   As you progress through each class in the ICS program, you learn more languages. The language for my current class, ICS 314, is 
 Javascript. This language is similar to the beginning language you learn in ICS 111, Java. You can basically do the same things in 
 Javascript as you do in Java. Such examples would be OOP (Object-Oriented Programming) and classes. 
 
-##Humble Beginnings
+## Humble Beginnings
 
   I'll admit that I was kind of nervous learning a new programming language. It requires the memory to remember keywords and the 
 syntax of the language. freeCodeCamp has made the experience on learning Javascript much easier. Once you define the semantics with the 
@@ -31,7 +31,7 @@ Java
 int number = 0;
 ```
 
-##Personal thoughts
+## Personal thoughts
   
   I believe that learning Java before Javascript makes it much easier than Javascript before Java. As mentioned before with the variable 
 declarations is that Java needs the data type as to Javascript needs to be either a changing variable or constant variable. By 
