@@ -87,21 +87,10 @@
     }
   ],
   "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "UH Manoa Oppportunity Grant",
+      "title": "UH Manoa Opportunity Grant",
       "date": "2018-Present",
       "awarder": "UH Manoa",
       "summary": "A grant for manoa undergrads"
