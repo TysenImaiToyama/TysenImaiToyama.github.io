@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Clean Your Room! Er, I Mean Code!.md
+title: Clean Your Room! Er, I Mean Code!
 date: 2018-09-20
 labels:
   - Code Style
