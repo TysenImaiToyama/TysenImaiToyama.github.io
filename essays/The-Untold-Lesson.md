@@ -22,7 +22,7 @@ of legos and instructions to build such a master piece. So rather than creating 
 as an already defined design pattern to your coding problem, you should use a design pattern that matches the problem you have. These
 design patterns make it easier by becoming the template to the solution of your problems in which can be further built upon to your needs.
 
-## The Untold Lesson
+## Uknowingly Learning About Design Patterns
 
 <img src="../images/designpatterns02.1509495012.jpg">
 
