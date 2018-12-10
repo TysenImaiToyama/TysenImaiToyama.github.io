@@ -17,7 +17,7 @@ labels:
 summary: For the 2018 HACC, I worked with 6 other members in making a web application.
 ---
 
-<img class="ui medium floated rounded image" src="../images/Gather.png">
+<img class="ui medium rounded image" src="../images/Gather.png">
 
 ## Gather
 ### Overview
