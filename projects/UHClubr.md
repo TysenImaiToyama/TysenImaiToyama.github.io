@@ -16,7 +16,7 @@ labels:
 summary: For the ICS 314 final project, I created an app with 3 other group members.
 ---
 
-<img class="ui medium rounded image" src="../images/ClubrLanding.PNG">
+<img class="ui large rounded image" src="../images/ClubrLanding.PNG">
 
 ## Overview
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UH-Clubr is an app that holds a directory of clubs within UH Manoa. These clubs are either official or organizations. This app has the ability filter clubs in different categories to a person's taste and display a clubs information for users to look through and decide on a club to join. In hopes to help students liven up their campus experience, UH-Clubr will help find a club or organization to fit the user's preferences.
