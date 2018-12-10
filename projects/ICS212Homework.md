@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/factor (2).jpg
+image: images/Factor.jpg
 title: 212 Homework
 permalink: projects/Homework
 # All dates must be YYYY-MM-DD format!
