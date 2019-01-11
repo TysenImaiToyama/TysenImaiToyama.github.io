@@ -75,15 +75,33 @@
         "ICS 312 - Machine-Level and Systems Programming (In Progress)",
         "ICS 321 - Database Systems I (In Progress)",
         "ICS 332 - Operating Systems (In Progress)",
-        "ICS 414 - Software Engineering II ",
+        "ICS 414 - Software Engineering II (In Progress)",
       ]
     }
   ],
   "work": [
     {
+      "company": "Ninja Sushi",
+      "position": "Sushi Chef, Cashier",
+      "website": "http://ninjasushiusa.com/",
+      "startDate": "2015-11",
+      "endDate": "2016-8",
+      "summary": "Rolled sushi or took orders in a quick and efficient manner.": [
+    },
+    {
+      "company": "Big City Diner",
+      "position": "Dishwasher, Pantry Cook, Grill Cook",
+      "website": "https://bigcitydinerhawaii.com/",
+      "startDate": "2016-8",
+      "endDate": "2017-9",
+      "summary": "Worked my way up from dishwasher to grill cook. Maintained work area and produced quality dishes in a timely manner.",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Koolau Ballrooms and Conference Center",
       "position": "Porter",
-      "website": "",
+      "website": "https://koolauballrooms.com/?gclid=CjwKCAiA99vhBRBnEiwAwpk-uB1XSMbFYfDC-T6ZBAUi_fIF59ZSKsxM7e5s0hWMkXUM0GGBqmIs1hoCNMkQAvD_BwE",
       "startDate": "2017-04",
       "endDate": "present",
       "summary": "Set up events such as wedddings or company conference meetings.",
