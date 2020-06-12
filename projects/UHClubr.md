@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHClubr.PNG
+image: images/UHClubr.png
 title: UH Clubr
 permalink: projects/UHClubr
 # All dates must be YYYY-MM-DD format!
