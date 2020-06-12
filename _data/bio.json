@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Tysen Imai-Toyama",
-    "label": "Student",
+    "label": "UH Manoa Graduate",
     "picture": "https://TysenImaiToyama.github.io/images/Profile.jpg",
     "email": "Tysen4@hawaii.edu",
     "phone": "808-391-7946",
     "website": "https://TysenImaiToyama.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020. I hope to eventually get a state job as a programmer.",
+    "summary": "I am a UH Manoa graduate of 2020. Looking to find a career in computer programming at an entry level.",
     "location": {
-      "address": "46-259 Kahuhipa St., Apt 307B",
-      "postalCode": "96744",
-      "city": "Kaneohe",
+      "address": "1759 Hooui pl",
+      "postalCode": "96782",
+      "city": "Pearl City",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Programming",
+      "name": "Surfing",
       "keywords": [
       ]
     },
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Anime",
+      "name": "Photography",
       "keywords": [
       ]
     }
@@ -52,7 +52,17 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
+        "Semantic-Ui",
+        "Django"
       ]
     }
   ],
@@ -62,7 +72,7 @@
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2014-08-15",
-      "endDate": "Present",
+      "endDate": "2020-05-15",
       "gpa": "",
       "courses": [
         "ICS 111 - Intro to Computer Science I",
@@ -73,20 +83,26 @@
         "ICS 311 - Algorithms",
         "ICS 314 - Software Engineering I",
         "ICS 312 - Machine-Level and Systems Programming (In Progress)",
-        "ICS 321 - Database Systems I (In Progress)",
-        "ICS 332 - Operating Systems (In Progress)",
-        "ICS 414 - Software Engineering II (In Progress)",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 361 - AI Programming",
+        "ICS 414 - Software Engineering II",
+        "ICS 426 - Computer Security and Ethics II",
+        "ICS 427 - Software Quality Assurance",
+        "ICS 428 - Digital Forensics",
+        "ICS 451 - Data Networks",
+        "ICS 483 - Computer Vision"
       ]
     }
   ],
   "work": [
     {
-      "company": "Ninja Sushi",
-      "position": "Sushi Chef, Cashier",
-      "website": "http://ninjasushiusa.com/",
-      "startDate": "2015-11",
-      "endDate": "2016-8",
-      "summary": "Rolled sushi or took orders in a quick and efficient manner.",
+      "company": "City and County of Honolulu",
+      "position": "Intern",
+      "website": "http://www.honolulu.gov/hr/pookela.html",
+      "startDate": "2019-12",
+      "endDate": "2020-05",
+      "summary": "Worked on a URL database checker project and did research on technology for projects.",
       "highlights": [
       ]
     },
@@ -96,16 +112,16 @@
       "website": "https://bigcitydinerhawaii.com/",
       "startDate": "2016-8",
       "endDate": "2017-9",
-      "summary": "Worked my way up from dishwasher to grill cook. Maintained work area and produced quality dishes in a timely manner.",
+      "summary": "Worked as a dishwasher, pantry chef, and line cook. Took food orders and created them in a timely manner",
       "highlights": [
       ]
     },
     {
       "company": "Koolau Ballrooms and Conference Center",
       "position": "Porter",
-      "website": "https://koolauballrooms.com/?gclid=CjwKCAiA99vhBRBnEiwAwpk-uB1XSMbFYfDC-T6ZBAUi_fIF59ZSKsxM7e5s0hWMkXUM0GGBqmIs1hoCNMkQAvD_BwE",
+      "website": "https://koolauballrooms.com/",
       "startDate": "2017-04",
-      "endDate": "present",
+      "endDate": "2020-03",
       "summary": "Set up events such as wedddings or company conference meetings.",
       "highlights": [
       ]
@@ -123,10 +139,10 @@
   ],
   "awards": [
     {
-      "title": "UH Manoa Opportunity Grant",
-      "date": "2018-Present",
-      "awarder": "UH Manoa",
-      "summary": "A grant for manoa undergrads"
+      "title": "Pookela Graduate",
+      "date": "2020-05",
+      "awarder": "City and County of Honolulu (Mayor Kirk Caldwell)",
+      "summary": "A certificate signed by Mayor Kirk Caldwell for completing the Pookela Internship program."
     }
   ],
   "references": [
