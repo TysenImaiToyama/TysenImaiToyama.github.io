@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/GatherLogo.jpg
+image: images/Gather/GatherLogo.jpg
 title: Gather
 permalink: projects/Gather
 # All dates must be YYYY-MM-DD format!
@@ -17,7 +17,7 @@ labels:
 summary: For the 2018 HACC, I worked with 6 other members in making a web application.
 ---
 
-<img class="ui medium floated rounded image" src="../images/Gather.png">
+<img class="ui medium floated rounded image" src="../images/Gather/Gather.png">
 
 ## Gather
 ### Overview
