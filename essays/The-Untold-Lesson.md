@@ -8,7 +8,7 @@ labels:
   - Design Pattern
 ---
 
-<img src="../images/http_codepen.io_guide_.jpg">
+<img src="../images/The%20Untold%20Lesson/DesignPatterns1.jpg">
 
 ## Building Blocks
 
@@ -24,7 +24,7 @@ design patterns make it easier by becoming the template to the solution of your 
 
 ## Unknowingly Learning About Design Patterns
 
-<img src="../images/designpatterns02.1509495012.jpg">
+<img src="../images/The%20Untold%20Lesson/DesignPatterns2.jpg">
 
 Throughout my years of learning how to code, I did not learn the design patterns I know now as design patterns. In Java, it was taught as
 regular Object Oriented Programming. The design pattern that was taught was called Prototype in which inheritance is taught or even 

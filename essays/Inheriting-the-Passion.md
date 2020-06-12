@@ -9,7 +9,7 @@ labels:
   - Personal
 ---
 
-<img class="ui tiny left circular floated image" src="../images/Gboy (2).jpg">
+<img class="ui tiny left circular floated image" src="../images/Inheriting%20the%20Passion/GameBoy.jpg">
 
 ## Passing the torch?
 
@@ -22,7 +22,7 @@ those topics as well.
 
 ## Keeping the flames alive
 
-<img class="ui medium right floated rounded image" src="../images/brain.jpg">
+<img class="ui medium right floated rounded image" src="../images/Inheriting%20the%20Passion/Brain.jpg">
 
   As I grew older, I kept playing more games with my dad. It led from the hand-held consoles to consoles like the XBOX and then to my 
 personally 

@@ -10,7 +10,7 @@ labels:
   - C
 summary: ICS 212 homework. A program that takes in an integer and displays all factors of given integer.
 ---
-<img class="ui medium right floated rounded image" src="../images/factor (2).jpg">
+<img class="ui medium right floated rounded image" src="../images/Factor.jpg">
 
   This program was to help get used to the input and output of the language C. This program takes in an integer and displays the factors 
 of the integer given but it also detects wrong input, such as letters. I contributed all of the code. This assignment has helped my understanding and practice the scanf function with the printf function. I had to work with loops for detecting wrong inputs and keeping the programming continuing even after one input until an integer is given. Also like all other assignments, learning to code from instructions. Not all customers are going to know coding, so asking questions and interaction is good when instructions aren't clear.

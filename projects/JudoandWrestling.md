@@ -12,7 +12,7 @@ labels:
 summary: Judo and Wrestling has taught me life experiences and self discipline.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Wrestling (3).jpg">
+<img class="ui medium right floated rounded image" src="../images/Wrestling.jpg">
 
 
 

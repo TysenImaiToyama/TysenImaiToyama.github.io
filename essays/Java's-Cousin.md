@@ -7,7 +7,7 @@ labels:
   - Learning
   - Javascript
 ---
-<img class="ui tiny center floated image" src="../images/javascript.jpg">
+<img class="ui tiny center floated image" src="../images/Javascript.jpg">
 
 ## A new semester, a new class
 

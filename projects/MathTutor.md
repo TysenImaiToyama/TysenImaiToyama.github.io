@@ -13,7 +13,7 @@ labels:
 summary: Tutoring for Calculus 2 and below at Windward Community College
 ---
 
-<img class="ui medium right floated rounded image" src="../images/tutor (2).jpg">
+<img class="ui medium right floated rounded image" src="../images/MathTutor.jpg">
 
   In life people are going to need help eventually and I get a happy high when helping people. This tutoring job has taught me how to 
 professionally interact with people and not on a casual level. Tutoring has made me have to find multiple approaches in tutoring people.
