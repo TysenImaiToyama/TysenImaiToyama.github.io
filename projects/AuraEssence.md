@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/AuraEssence/AuraEssenceLogo.png
 title: Aura Essence
-permalink: projects/Gather
+permalink: projects/AuraEssence
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-24
 labels:
@@ -18,7 +18,7 @@ summary: For my ICS 414 class, we had to create an app that communicated with a 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aura Essence is a web-app using the Django framework. In a team of three people, we 
 were tasked to design and create an application that communicated with a smart light bulb. The theme of the application 
 was to be an ambient style application. Its functionality was to change its themes, have an on and off timer, and play 
-ambient nature sounds. This was my first time coding with Python and Django. Due to a package no longer being supported, 
+ambient nature sounds. This was my first time coding with Python and Django. Due to the win32api package no longer being supported, 
 the code is currently deprecated.
 
 ## Contributions
