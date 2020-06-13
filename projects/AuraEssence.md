@@ -38,7 +38,7 @@ sounds to choose from. All of the sounds are nature related to give off an ambie
 I learned that it is good to be aware of device compatibility. The package I used to play the sounds was for windows only 
 devices. My teammates could not make the feature work on their Macs.
 
-<img class="ui large floated rounded image" src="../images/AuraEssence/AddDevice.png">
+<img class="ui medium floated rounded image" src="../images/AuraEssence/AddDevice.png">
 
 ### Add Device
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding this functionality helped me learn about Python and Django. I had to work with
