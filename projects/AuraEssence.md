@@ -45,5 +45,7 @@ devices. My teammates could not make the feature work on their Macs.
 GET and POST requests to a database to either get data to display or manipulate data in the database. The code adds IP's 
 light bulbs to a user data structure if not already added by the user.
 
+
+
 ## Links
 [Source Code (Deprecated)](https://github.com/teamjst/aura-essence)
