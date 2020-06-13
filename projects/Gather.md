@@ -18,8 +18,6 @@ summary: For the 2018 HACC, I worked with 6 other members in making a web applic
 ---
 
 <img class="ui medium floated rounded image" src="../images/Gather/Gather.png">
-
-## Gather
 ### Overview
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 2018 HACC's theme was sustainability, which led to the app, Gather, being born. The kick-off even on October 20th, 2018 showed us 7 different challenges where programmers of a variety of skills would band together to get one of the challenges done. The challenge I chose for this competition was the Waste Audit challenge. This challenge was attempted with 6 other members during the entirety of the month. We managed to get 8th place overall out of 20 presenting teams and 30+ entering teams.
 
