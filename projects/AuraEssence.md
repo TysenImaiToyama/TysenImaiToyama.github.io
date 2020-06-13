@@ -44,7 +44,6 @@ devices. My teammates could not make the feature work on their Macs.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding this functionality helped me learn about Python and Django. I had to work with
 GET and POST requests to a database to either get data to display or manipulate data in the database. The code adds IP's 
 light bulbs to a user data structure if not already added by the user.  
-    
-\n
+## 
 ## Links
 [Source Code (Deprecated)](https://github.com/teamjst/aura-essence)
