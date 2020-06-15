@@ -41,7 +41,7 @@ devices. My teammates could not make the feature work on their Macs.
 <img class="ui medium floated rounded image" src="../images/AuraEssence/AddDevice.png">
 
 ### Add Device
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding this functionality helped me learn about Python and Django. I had to work with
+Coding this functionality helped me learn about Python and Django. I had to work with
 GET and POST requests to a database to either get data to display or manipulate data in the database. The code adds IP's 
 of the light bulbs to a user data structure if not already added by the user. This is where the data to connect the bulb 
 to the wifi that your device is connected to is saved.
