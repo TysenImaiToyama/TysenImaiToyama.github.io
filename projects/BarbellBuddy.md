@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/BarbellBuddy/.png
+image: images/BarbellBuddy.png
 title: Barbell Buddy
 permalink: projects/BarbellBuddy
 # All dates must be YYYY-MM-DD format!
